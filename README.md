@@ -36,7 +36,7 @@
 
 
 
-
+![Discord](https://discord.c99.nl/widget/theme-1/682981714523586606.png)
 
 
 
