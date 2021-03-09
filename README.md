@@ -15,10 +15,7 @@
 
 <p align="center">
 
-    <a href="https://github.com/khanmanan/github-quote">
-
-    <img src="https://github-quote.vercel.app/api?type=dark"/>
-
+    
   </a>
 
 </p>
