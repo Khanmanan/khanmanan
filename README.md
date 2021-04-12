@@ -11,7 +11,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanmanan&layout=compact&hide=html" alt="khan " /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanmanan&show_icons=true" alt="koolwiza" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanmanan&show_icons=true" alt="khanmanan" /></p>
 
 <p align="center">
 
