@@ -1,39 +1,35 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i am Cw khan
-<h3 align="center">I am a discord bot developer. I provide open source discord bots that are easily configurable. Most of my bots are run with quick.db v7.1.1 and discord.js v12.14.1</h3>
+### Hi there 👋, my name is cwkhan
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=khanmanan" alt="khanmanan" /> </p>
+#### I am discord bot devloper / YouTuber 😅
 
-<br>
+![I am discord bot devloper / YouTuber 😅](https://cdn.discordapp.com/attachments/824976037578014730/825281056382124062/image0-1.png)
 
-<h1 align="center">🛠️ Tools I work with</h1>
+I am from India
 
-<p align="center"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>      <img src ="https://img.shields.io/badge/QuickDB-%234ea94b.svg?&style=for-the-badge&logo=quickdb&logoColor=white"/></p>
+And my age is 17
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanmanan&layout=compact&hide=html" alt="khan " /></p>
+ 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanmanan&show_icons=true" alt="khanmanan" /></p>
+Skills: Html / discord.js
 
-<p align="center">
+- 🔭 I’m currently working on vectron beta bot 
 
-    
-  </a>
+- 👯 I’m looking to collaborate on Automod-bot 
 
-</p>
+- 📫 How to reach me: [join our discord server ](https://dsc.gg/cwkhan) 
 
-<h1 align="center">🤝 Get in touch!</h1>
+- ⚡ Fun fact: I am codeing on Android 😅 
 
-<p align="center">
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khanmanan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/codecwkhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/cwkham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.cwkhan.tk)  
 
-<a href="https://dsc.gg/kmdevs" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-<a href="https://github.com/khanmanan"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=khanmanan)](https://github.com/ryo-ma/github-profile-trophy)
 
-</p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khanmanan)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khanmanan)  
 
-
-![Discord](https://discord.c99.nl/widget/theme-1/682981714523586606.png)
-
-
+![Profile views](https://komarev.com/ghpvc/?username=khanmanan)  
 
 
