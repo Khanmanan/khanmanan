@@ -12,7 +12,7 @@ And my age is 17
 
 Skills: Html / discord.js
 
-- 🔭 I’m currently working on ** [vectron beta bot ](https://discord.com/api/oauth2/authorize?client_id=830377195310546954&permissions=4025867761&scope=bot) **
+- 🔭 I’m currently working on **[vectron beta bot ](https://discord.com/api/oauth2/authorize?client_id=830377195310546954&permissions=4025867761&scope=bot)**
 
 - 👯 I’m looking to collaborate on **[Automod-bot ](https://github.com/khanmanan/automod-bot)**
 
