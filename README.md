@@ -32,4 +32,6 @@ Skills: Html / discord.js
 
 ![Profile views](https://komarev.com/ghpvc/?username=khanmanan)  
 
+### My Server:
+<a href="https://discord.gg/uC5bAzvmX5"><img src="http://invidget.switchblade.xyz/uC5bAzvmX5"/></a>
 
