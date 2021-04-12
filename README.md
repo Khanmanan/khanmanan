@@ -2,10 +2,10 @@
 
 #### I am discord bot devloper / YouTuber 😅
 
-![I am discord bot devloper / YouTuber 😅]()
+![I am discord bot devloper / YouTuber 😅](https://cdn.discordapp.com/attachments/821372193103282238/831131610479984650/PicsArt_04-12-05.09.20.png)
 
 I am from India
-https://cdn.discordapp.com/attachments/821372193103282238/831131610479984650/PicsArt_04-12-05.09.20.png
+
 And my age is 17
 
  
