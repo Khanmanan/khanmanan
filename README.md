@@ -19,7 +19,7 @@ Skills: Html / discord.js
 - 📫 How to reach me: [join our discord server ](https://dsc.gg/cwkhan) 
 
 - ⚡ Fun fact: I am codeing on Android 😅 
-### src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Latest YouTube Videos
+### <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [how to make discord bot in android](https://youtu.be/IX4DZq7iVf4)
