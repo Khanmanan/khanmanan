@@ -36,6 +36,11 @@ Skills: Html / discord.js
      <td><a href="https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot"><img alt="https://cdn.discordapp.com/attachments/823585354569351208/843224109995524146/image0.jpg" title="automod-Bot" height="28px"
 src="https://cdn.discordapp.com/attachments/823585354569351208/843224109995524146/image0.jpg" /></a>
 </tr>
+<table align='center'>
+<tbody>
+<tr>
+<td><a href="https://discord.com/oauth2/authorize?client_id=724686774273835118&scope=bot&permissions=8"><img alt="cwk-music" title="cwk-music" height="28px"
+                        src="https://cdn.discordapp.com/attachments/823585354569351208/841705059246407730/image0.jpg" /></a>
   </tbody>
   </table>
 
