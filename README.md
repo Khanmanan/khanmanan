@@ -33,7 +33,7 @@ Skills: Html / discord.js
 <table align='center'>
  <tbody>
    <tr>
-     <td><a href="https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot"><img alt="automod-bot" title="automod-Bot" height="28px"
+     <td><a href="https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot"><img alt="https://cdn.discordapp.com/attachments/823585354569351208/843224109995524146/image0.jpg" title="automod-Bot" height="28px"
 </tr>
   </tbody>
   </table>
