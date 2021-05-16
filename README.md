@@ -1,4 +1,4 @@
-### Hi there 👋, my name is cwkhan
+<h1 align='center'> Hi there 👋, my name is cwkhan </h1>
 
 #### I am discord bot devloper / YouTuber 😅
 
@@ -10,7 +10,7 @@ And my age is 17
 
 
 
-Skills: Html / discord.js
+<h1 align='center'> Skills: Html / discord.js </h1>
 
 - 🔭 I’m currently working on **[vectron beta bot ](https://discord.com/api/oauth2/authorize?client_id=830377195310546954&permissions=4025867761&scope=bot)**
 
@@ -19,7 +19,7 @@ Skills: Html / discord.js
 - 📫 How to reach me: [join our discord server ](https://dsc.gg/cwkhan) 
 
 - ⚡ Fun fact: I am codeing on Android 😅 
-### <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Latest YouTube Videos
+### <h1 align='center'> <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Latest YouTube Videos </h1>
 
 <!-- YOUTUBE:START -->
 - [ how to setup glitch costume domain ](https://youtu.be/dZicGEuONYI)
@@ -48,6 +48,6 @@ src="https://cdn.discordapp.com/attachments/823585354569351208/84322410999552414
 
 ![Profile views](https://komarev.com/ghpvc/?username=khanmanan)  
 
-### My Server:  
+<h1 align='center'> My Server:  </h1
 <a href="https://discord.gg/uC5bAzvmX5"><img src="http://invidget.switchblade.xyz/uC5bAzvmX5"/></a>
 
