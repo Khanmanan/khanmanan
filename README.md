@@ -50,6 +50,6 @@ src="https://cdn.discordapp.com/attachments/823585354569351208/84322410999552414
 
 ![Profile views](https://komarev.com/ghpvc/?username=khanmanan)  
 
-<h1 align='center'> My Server:  </h1
+<h1 align='center'> Discord :  </h1
 <a href="https://discord.gg/uC5bAzvmX5"><img src="http://invidget.switchblade.xyz/uC5bAzvmX5"/></a>
 
