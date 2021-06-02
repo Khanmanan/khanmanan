@@ -31,7 +31,7 @@ And my age is 17
 <!-- YOUTUBE:END -->
 <h1 align='center'> Discord Bots</h1>
 <table align='center'>
- <tbody>
+ <tbody> 
    <tr>
      <td><a href="https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot"><img alt="https://cdn.discordapp.com/attachments/823585354569351208/843224109995524146/image0.jpg" title="automod-Bot" height="28px"
 src="https://cdn.discordapp.com/attachments/823585354569351208/843224109995524146/image0.jpg" /></a>
@@ -50,6 +50,6 @@ src="https://cdn.discordapp.com/attachments/823585354569351208/84322410999552414
 
 ![Profile views](https://komarev.com/ghpvc/?username=khanmanan)  
 
-<h1 align='center'> Discord :  </h1
+<h1 align='center'> Discord server :  </h1
 <a href="https://discord.gg/uC5bAzvmX5"><img src="http://invidget.switchblade.xyz/uC5bAzvmX5"/></a>
 
