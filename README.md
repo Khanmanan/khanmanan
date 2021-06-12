@@ -22,7 +22,7 @@ And my age is 17
 ### <h1 align='center'> <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Latest YouTube Videos </h1>
 
 <!-- YOUTUBE:START -->
-- [ how to setup glitch costume domain ](https://youtu.be/dZicGEuONYI)
+- [ how to setup glitch custom domain ](https://youtu.be/dZicGEuONYI)
 - [ how to make discord bot dashboard using botdash ](https://youtu.be/yhIDDxfe5sg)
 - [how to make discord bot in android](https://youtu.be/IX4DZq7iVf4)
 - [How to buy free doamin from freenom](https://youtu.be/haJGYlkURgk)
