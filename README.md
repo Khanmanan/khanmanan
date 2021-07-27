@@ -1,55 +1,34 @@
-<h1 align='center'> Hi there 👋, my name is cwkhan </h1>
+<h1 align="center">Hi 👋, I'm Cwkhan</h1>
+<h3 align="center">I am doscord developer / YouTuber from India</h3>
 
-#### I am discord bot devloper / YouTuber 😅
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanmanan&label=Profile%20views&color=0e75b6&style=flat" alt="khanmanan" /> </p>
 
-![I am discord bot devloper / YouTuber 😅](https://cdn.discordapp.com/attachments/823585354569351208/831294477524140042/image0.jpg)
+- 🔭 I’m currently working on [automodbot](https://automodbot.com)
 
-I am from India
+- 🌱 I’m currently learning **Javascript & html**
 
-And my age is 17
+- 👯 I’m looking to collaborate on [Automod-bot](https://github.com/khanmanan/automod-bot)
 
+- 👨‍💻 All of my projects are available at [https://cwkhan.xyz](https://cwkhan.xyz)
 
+- 📫 How to reach me **https://discord.gg/cwkhan**
 
-<h1 align='center'> Skills: Html / discord.js </h1>
+- ⚡ Fun fact **Im coding on Android 😆**
 
-- 🔭 I’m currently working on **[vectron beta bot ](https://discord.com/api/oauth2/authorize?client_id=830377195310546954&permissions=4025867761&scope=bot)**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/cwkhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cwkhan" height="30" width="40" /></a>
+<a href="https://twitter.com/cwkhan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cwkhan01" height="30" width="40" /></a>
+<a href="https://instagram.com/codecwkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codecwkhan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/cwkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cwkhan" height="30" width="40" /></a>
+<a href="https://discord.gg/cwkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cwkhan" height="30" width="40" /></a>
+</p>
 
-- 👯 I’m looking to collaborate on **[Automod-bot ](https://github.com/khanmanan/automod-bot)**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
 
-- 📫 How to reach me: [join our discord server ](https://dsc.gg/cwkhan) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanmanan&show_icons=true&locale=en&layout=compact" alt="khanmanan" /></p>
 
-- ⚡ Fun fact: I am codeing on Android 😅 
-### <h1 align='center'> <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Latest YouTube Videos </h1>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanmanan&show_icons=true&locale=en" alt="khanmanan" /></p>
 
-<!-- YOUTUBE:START -->
-- [ how to Grow discord bot ](https://www.youtube.com/watch?v=KlfyGGpAb5E)
-- [ how to make discord bot dashboard using botdash ](https://youtu.be/yhIDDxfe5sg)
-- [how to make discord bot in android](https://youtu.be/IX4DZq7iVf4)
-- [How to buy free doamin from freenom](https://youtu.be/haJGYlkURgk)
-- [how to host ur repl/ glitch project 24/7 ](https://youtu.be/O24Q02LpFl4)
-
-<!-- YOUTUBE:END -->
-<h1 align='center'> Discord Bots</h1>
-<table align='center'>
- <tbody> 
-   <tr>
-     <td><a href="https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot"><img alt="https://cdn.discordapp.com/attachments/823585354569351208/843224109995524146/image0.jpg" title="automod-Bot" height="28px"
-src="https://cdn.discordapp.com/attachments/823585354569351208/843224109995524146/image0.jpg" /></a>
-</tr>
-<table align='center'>
-<tbody>
-<tr>
-<td><a href="https://discord.com/oauth2/authorize?client_id=724686774273835118&scope=bot&permissions=8"><img alt="cwk-music" title="cwk-music" height="28px"
-                        src="https://cdn.discordapp.com/attachments/823585354569351208/841705059246407730/image0.jpg" /></a>
-  </tbody>
-  </table>
-<h1 align='center'> Git Stats </h1>
-  
-  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khanmanan)  
-
-![Profile views](https://komarev.com/ghpvc/?username=khanmanan)  
-
-<h1 align='center'> Discord server :  </h1
-<a href="https://discord.gg/uC5bAzvmX5"><img src="http://invidget.switchblade.xyz/uC5bAzvmX5"/></a>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanmanan&" alt="khanmanan" /></p>
