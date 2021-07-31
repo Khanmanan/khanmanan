@@ -32,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanmanan&show_icons=true&locale=en" alt="khanmanan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanmanan&" alt="khanmanan" /></p>
+
+# Activey
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/682981714523586606)](https://discord.gg/cwkhan)
