@@ -33,6 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanmanan&" alt="khanmanan" /></p>
 
-# Activey
+# Activity
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/682981714523586606)](https://discord.gg/cwkhan)
