@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://cwkhan.xyz](https://cwkhan.xyz)
 
-- 📫 How to reach me **https://discord.gg/cwkhan**
+- 📫 How to reach me **https://discord.gg/7P6WjqRcft**
 
 - ⚡ Fun fact **Im coding on Android 😆**
 
