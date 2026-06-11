@@ -62,6 +62,11 @@ fun_fact: "I code entirely on Android! 📱"
 ---
 
 ## 🌐 Connect & Follow
+<p align="center">
+  <a href="https://discord.gg/3c24dYbK83">
+    <img src="https://cwkhan.is-a.dev/api/widget/svg?id=787315610102530048&n=%3C%2FCw+khan%3E&t=discord&m=562&o=30&b=https%3A%2F%2Fi.ibb.co%2F0phjK8NK%2Fb1b1f8f1a11b.png&ic=https%3A%2F%2Fi.ibb.co%2Fxq7kkNZg%2F0e7e946da3d8.jpg&inv=3c24dYbK83&d=Join+cwkhan+server+now&lp=center" alt="Cw Khan Discord Server" />
+  </a>
+</p>
 
 <div align="center">
 
